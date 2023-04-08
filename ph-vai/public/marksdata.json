@@ -1,0 +1,61 @@
+[  {    
+    "id": 1,    
+    "roll": "A001",    
+    "subjects": [      
+        {"name": "Math", "mark": 12},      
+        {"name": "Physics", "mark": 13},      
+        {"name": "Chemistry", "mark": 12}    
+    ],
+    "avg": 12.33
+  },
+  {
+    "id": 2,
+    "roll": "A002",
+    "subjects": [
+      {"name": "Math", "mark": 13},
+      {"name": "Physics", "mark": 12},
+      {"name": "Chemistry", "mark": 13}
+    ],
+    "avg": 12.67
+  },
+  {
+    "id": 3,
+    "roll": "A003",
+    "subjects": [
+      {"name": "Math", "mark": 12},
+      {"name": "Physics", "mark": 13},
+      {"name": "Chemistry", "mark": 12}
+    ],
+    "avg": 12.33
+  },
+  {
+    "id": 4,
+    "roll": "A004",
+    "subjects": [
+      {"name": "Math", "mark": 13},
+      {"name": "Physics", "mark": 12},
+      {"name": "Chemistry", "mark": 13}
+    ],
+    "avg": 12.67
+  },
+  {
+    "id": 5,
+    "roll": "A005",
+    "subjects": [
+      {"name": "Math", "mark": 12},
+      {"name": "Physics", "mark": 13},
+      {"name": "Chemistry", "mark": 12}
+    ],
+    "avg": 12.33
+  },
+  {
+    "id": 6,
+    "roll": "A006",
+    "subjects": [
+      {"name": "Math", "mark": 13},
+      {"name": "Physics", "mark": 12},
+      {"name": "Chemistry", "mark": 13}
+    ],
+    "avg": 12.67
+  }
+]

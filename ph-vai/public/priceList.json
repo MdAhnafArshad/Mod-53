@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Gold's Gym",
+      "price": "$50/month",
+      "features": ["Personal Training"]
+    },
+    {
+      "id": 2,
+      "name": "Planet Fitness",
+      "price": "$10/month",
+      "features": ["Unlimited Tanning"]
+    },
+    {
+      "id": 3,
+      "name": "Equinox",
+      "price": "$200/month",
+      "features": ["Luxury Amenities"]
+    },
+    {
+      "id": 4,
+      "name": "LA Fitness",
+      "price": "$40/month",
+      "features": ["Swimming Pool"]
+    },
+    {
+      "id": 5,
+      "name": "24 Hour Fitness",
+      "price": "$30/month",
+      "features": ["Group Fitness Classes"]
+    }
+  ]
+  
